@@ -14,6 +14,7 @@ This challenge not only enhances our ability to address real-world problems in h
 
 ## Dataset
 The dataset contains healthcare records of patients with metastatic breast cancer, including demographic information, diagnosis codes, and geographic characteristics. Additionally, the dataset is enriched with zip code-level climate data to explore the relation between health outcomes and environmental factors.
+Link to access the data: https://www.kaggle.com/competitions/widsdatathon2024-challenge2/data
 
 ### Key Columns
 - `patient_id`: Unique identifier for each patient.
